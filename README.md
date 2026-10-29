@@ -1,11 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Felipe! 👋
 
-Eu sou o Lucas Felipe, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+Como profissional em transição de carreira vindo da área de logística, hoje aplico minhas sólidas habilidades de organização, colaboração em equipe e resolução de problemas estruturados no desenvolvimento de software. Estou em busca da minha primeira oportunidade como programador!
 
-<img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo-css3&logoColor=white" alt="css-logo" />
+## 🚀 Sobre Mim
+- 🎓 Estudando **Sistemas de Informação** na Anhanguera.
+- 💻 Atualmente focado em evoluir no ecossistema **Full Stack (Node.js, Express, React e MongoDB)**.
+- 🚀 Integrante da comunidade **DevClub** e participando de programas de desenvolvimento e inovação.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasfelipe56)](https://github.com/stats-organization/github-stats-extended)
+## 🛠️ Tecnologias e Ferramentas
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Vite.
+- **Backend:** Node.js, Express.js.
+- **Banco de Dados:** MongoDB.
+- **Ferramentas:** Git, GitHub, VS Code, Figma.
 
+## 📫 Como me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/lucasfelipepedrosa/
+- **Email:** lucasfelipedrosa@gmail.com
